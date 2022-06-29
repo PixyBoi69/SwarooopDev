@@ -8,10 +8,9 @@
 
 # Connect with me:
 
-[<img align="left" alt="ExtinctAyu | YouTube" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/youtube-light.svg" />][youtube-light]
-[<img align="left" alt="ExtinctAyu | YouTube" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/youtube-dark.svg" />][youtube-dark]
-[<img align="left" alt="Aether | Instagram" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-light.svg" />][instagram-light]
-[<img align="left" alt="Aether | Instagram" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg" />][instagram-dark]
-
+[<img align="left" alt="ExtinctAyu | YouTube" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/youtube-dark.svg" />]
+<a href="https://instagram.com/exctinctayu?igshid=YmMyMTA2M2Y=">
+[<img align="left" alt="Aether | Instagram" width="22px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/instagram-dark.svg" />]
+</a>
 <br />
 
